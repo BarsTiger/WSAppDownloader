@@ -1,1 +1,4 @@
 /.idea/
+/build/
+*spec
+/__pycache__/
